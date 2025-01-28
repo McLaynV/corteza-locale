@@ -1,4 +1,3 @@
----
 errors:
   failedToExtractMimeType: MIME-Typ konnte nicht extrahiert werden
   failedToProcessImage: Bild konnte nicht verarbeitet werden

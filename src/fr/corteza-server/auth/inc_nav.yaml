@@ -1,4 +1,3 @@
----
 template:
   authorize-client: Finaliser l'autorisation de
   class:

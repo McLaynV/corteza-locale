@@ -1,4 +1,3 @@
----
 errors:
   handleNotUnique: role handle not unique
   invalidHandle: invalid handle

@@ -1,4 +1,3 @@
----
 errors:
   failedToExtractMimeType: could not extract mime type
   failedToProcessImage: napaka pri procesiranju datoteke

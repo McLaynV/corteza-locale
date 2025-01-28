@@ -1,4 +1,3 @@
----
 dashboard: Dashboard
 system:
   group: System
@@ -36,4 +35,3 @@ ui:
   group: User interface
   items:
     settings: Settings
-

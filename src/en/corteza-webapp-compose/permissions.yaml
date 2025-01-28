@@ -4,15 +4,12 @@ ui:
   set-for: Set permissions for {{target}}
   loading: Loading permissions
   label: Permissions
-
   edit:
     label: User roles
     description: Select role to set permissions
-
   evaluate:
     label: Evaluate
     description: Evaluate applied permissions
-
   add:
     label: Add
     title: Evaluate permissions
@@ -23,17 +20,14 @@ ui:
     user:
       label: Users
       placeholder: Search or select a user
-
   tooltip:
     unknown-context:
       user: Can not evaluate permission for a user with contextual role on a non-specific resource
       role: Can not evaluate permission for contextual role on a non-specific resource
-
   access:
     allow: Allow
     inherit: Inherit
     deny: Deny
-
 resources:
   compose:
     chart:
@@ -53,7 +47,6 @@ resources:
           description: 'Default: deny'
           specific: Update chart "{{target}}"
           title: Update any chart
-
     module:
       all: all modules
       specific: module "{{target}}"
@@ -84,7 +77,6 @@ resources:
           specific: Manage owner when creating record "{{target}}"
           title: Manage owner when creating record of any module
           all-specific: Manage owner when creating record of module "{{ target }}"
-
     module-field:
       all: all module fields
       specific: field "{{target}}"
@@ -101,7 +93,6 @@ resources:
           specific: 'Update "{{target}}" record fields '
           title: Update record fields of any module
           all-specific: Update record fields of module "{{ target }}"
-
     namespace:
       all: all namespaces
       specific: namespace "{{target}}"
@@ -147,7 +138,6 @@ resources:
           description: ""
           specific: Update namespace "{{target}}"
           title: Update any namespace
-
     page:
       all: all pages
       specific: page "{{target}}"
@@ -173,7 +163,6 @@ resources:
           description: 'Default: deny'
           specific: List page layouts for page "{{target}}"
           title: List page layout
-
     page-layout:
       all: all page layouts
       specific: page layout "{{target}}"
@@ -195,7 +184,6 @@ resources:
           specific: Delete page layout "{{target}}"
           title: Delete any page layout
           all-specific: Delete page layouts of page "{{ target }}"
-
     record:
       all: all records
       specific: record "{{target}}"

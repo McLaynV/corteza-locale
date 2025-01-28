@@ -7,17 +7,14 @@ ui:
   cancel: Cancel
   set-for: Set permissions for {{target}}
   loading: Loading permissions
-
   edit:
     title: Edit permissions
     label: User roles
     description: Select role to set permissions
   edit-or-eval: Edit or evaluate permissions
-
   evaluate:
     title: Evaluated permissions
     description: Evaluate applied permissions
-
   add:
     label: Add
     title: Evaluate permissions
@@ -32,34 +29,28 @@ ui:
     user:
       label: Users
       placeholder: Search or select a user
-
   tooltip:
     unknown-context:
       user: Can not evaluate permission for a user with contextual role on a non-specific resource
       role: Can not evaluate permission for contextual role on a non-specific resource
-
   access:
     allow: Allow
     inherit: Inherit
     deny: Deny
-
   #############################################################################
   # Inline permission table UI:
   click-on-cell-to-allow: Click on permission/role cell to allow a specific operation
-
   title:
     automation: Automation permissions
     system: System permissions
     compose: Compose permissions
     federation: Federation permissions
-
   clone:
     clone: Clone
     label: Clone permissions
     pick-role: Pick a role
     title: Clone permissions to
     description: This will clone all the permissions of the current role and apply them  to the selected
-
 resources:
   automation:
     component:
@@ -77,7 +68,6 @@ resources:
           title: Search workflows
         resource-translations.manage:
           title: Manage resource translations
-
     workflow:
       label: Workflows
       all: all workflows
@@ -111,7 +101,6 @@ resources:
           description: 'Default: deny'
           specific: Update this workflow
           title: Update any workflow
-
   system:
     component:
       label: System component
@@ -178,7 +167,6 @@ resources:
           title: Search data privacy requests
         data-privacy-request.create:
           title: Create data privacy requests
-
     application:
       label: Applications
       all: all applications
@@ -196,7 +184,6 @@ resources:
           description: 'Default: deny'
           specific: Update {{target}}
           title: Update any application
-
     apigw-route:
       label: Gateway routes
       all: all routes
@@ -214,7 +201,6 @@ resources:
           description: 'Default: deny'
           specific: Update {{target}}
           title: Update any route
-
     auth-client:
       label: Auth Clients
       all: all auth clients
@@ -236,7 +222,6 @@ resources:
           description: 'Default: deny'
           specific: Update client "{{target}}
           title: Update any client
-
     dal-connection:
       label: Connections
       all: all connections
@@ -278,7 +263,6 @@ resources:
           description: 'Default: deny'
           specific: Update {{target}}
           title: Update any role
-
     queue:
       label: Queues
       all: all queues
@@ -308,7 +292,6 @@ resources:
           description: 'Default: deny'
           specific: Write messages to {{target}}
           title: Write messages to any queue
-
     template:
       label: Templates
       all: all templates
@@ -330,8 +313,6 @@ resources:
           description: 'Default: deny'
           specific: Update {{target}}
           title: Update any template
-
-
     report:
       label: Reports
       all: all reports
@@ -353,7 +334,6 @@ resources:
           description: 'Default: deny'
           specific: Update {{target}}
           title: Update any report
-
     user:
       label: Users
       all: all users
@@ -395,7 +375,6 @@ resources:
           description: 'Default: deny'
           specific: Update {{target}}
           title: Update any user
-
     data-privacy-request:
       label: Privacy Requests
       all: all requests
@@ -425,7 +404,6 @@ resources:
           title: Manage all settings
         settings.read:
           title: Access all settings
-
     node:
       label: Nodes
       operations:
@@ -433,19 +411,16 @@ resources:
           title: Manage any node
         module.create:
           title: Create modules
-
     exposed-module:
       label: Modules
       operations:
         manage:
           title: Manage any module
-
     shared-module:
       label: Modules
       operations:
         map:
           title: Map any module
-
   compose:
     component:
       label: Compose component

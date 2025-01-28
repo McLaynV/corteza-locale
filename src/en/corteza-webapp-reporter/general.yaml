@@ -23,7 +23,6 @@ label:
   report:
     single: Report
     plural: Reports
-
 resourceList:
   notFound: Not found
   noItems: No items to show
@@ -34,7 +33,6 @@ resourceList:
     single: 'One {{data}}'
     single_plural: '{{count}} {{data}}'
     recordsPerPage: Records per page
-
 themes:
   labels:
     light: Light

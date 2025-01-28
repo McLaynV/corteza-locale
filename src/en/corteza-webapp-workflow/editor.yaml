@@ -1,4 +1,3 @@
-
 'auto-initialize-empty-variable': Variables that can't be loaded will be auto initialized as empty
 back: Back
 'click-to-save': Click here to save

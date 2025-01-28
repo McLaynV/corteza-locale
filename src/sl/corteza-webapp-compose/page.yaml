@@ -1,4 +1,3 @@
----
 build:
   addBlock: Add block
   selectBlockFootnote: Some types might be disabled for non-record pages

@@ -1,4 +1,3 @@
----
 errors:
   invalidID: invalid ID
   notAllowedToDelete: not allowed to delete this session

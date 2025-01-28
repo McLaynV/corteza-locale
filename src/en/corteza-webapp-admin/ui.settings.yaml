@@ -1,27 +1,20 @@
 editor:
   title: 'User Interface Settings'
-
   mainLogo:
     title: 'Main logo'
-
     uploader:
       instructions: 'Click or drop main logo here to upload'
       uploading: 'Uploading main logo'
-
   iconLogo:
     title: 'Icon logo'
-
     uploader:
       instructions: 'Click or drop icon logo image here to upload'
       uploading: 'Uploading icon logo'
-
   favicon:
     title: 'Favicon'
-
     uploader:
       instructions: 'Click or drop favicon file here to upload'
       uploading: 'Uploading favicon'
-
   corteza-studio:
     title: Theming
     colorPicker: Choose a color
@@ -48,12 +41,9 @@ editor:
         body-bg: Body background
         sidebar-bg: Sidebar background
         topbar-bg: Topbar background
-
   topbar:
     title: Topbar
-
     general: General
-
     app-selector:
       hide: Hide app selector
     help:
@@ -67,7 +57,6 @@ editor:
       hide: Hide profile
       hide-profile-link: Hide profile link
       hide-change-password-link: Hide change password link
-
     links:
       title: Custom links
       handle: Name

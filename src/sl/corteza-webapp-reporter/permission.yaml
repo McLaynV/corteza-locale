@@ -1,4 +1,3 @@
----
 report:
   all: all reports
   specific: report "{{target}}"

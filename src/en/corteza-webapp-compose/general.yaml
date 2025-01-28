@@ -179,7 +179,6 @@ variants:
   warning: Warning
 editor:
   unsavedChanges:  Unsaved changes will be lost. Do you wish to leave the page?
-
 themes:
   labels:
     light: Light

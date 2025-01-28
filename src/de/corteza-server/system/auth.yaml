@@ -1,4 +1,3 @@
----
 errors:
   credentialsLinkedToInvalidUser: Anmeldeinformationen {credentials.kind}mit deaktiviertem oder gelöschtem Benutzer verknüpft  {user}
   disabledMFAWithEmailOTP: Multi-Faktor-Authentifizierung mit E-Mail-OTP ist deaktiviert

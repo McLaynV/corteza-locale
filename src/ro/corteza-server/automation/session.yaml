@@ -1,4 +1,3 @@
----
 errors:
   invalidID: ID invalid
   notAllowedToDelete: nu ai permisiunea pentru a șterge această sesiune

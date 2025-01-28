@@ -1,4 +1,3 @@
----
 errors:
   invalidID: invalid ID
   notAllowedToCreate: not allowed to create auth clients

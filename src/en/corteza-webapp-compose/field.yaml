@@ -258,4 +258,3 @@ constraints:
   totalFieldConstraintCount: The field is used in {{total}} other unique value constraint. See "unique values" tab on module editor.
   tooltip:
     performance: Using unique value constraints will impact performance
-

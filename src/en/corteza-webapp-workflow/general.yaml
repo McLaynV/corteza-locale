@@ -21,7 +21,6 @@ name: Name
 new-workflow: New Workflow
 none: None
 now: Now
-
 offset: Offset
 offset-expression: Offset (expression)
 permissions: Permissions
@@ -51,7 +50,6 @@ resourceList:
     single: 'One {{data}}'
     single_plural: '{{count}} {{data}}'
     recordsPerPage: Records per page
-
 tooltip:
   permissions: Workflow permissions
 columns:
@@ -59,7 +57,6 @@ columns:
   enabled: Enabled
   steps: Steps
   changedAt: Last change
-
 themes:
   labels:
     light: Light

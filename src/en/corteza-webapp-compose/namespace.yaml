@@ -55,27 +55,22 @@ tooltip:
   translations: Namespace translations
 visit: View namespace
 configure: Configure namespace
-
 manage:
   title: Manage namespaces
   list-view: Back to namespace list
   delete: Delete
   unsavedChanges: Unsaved changes will be lost. Do you wish to leave the page?
-
   disabled: Disabled
-
   toolbar:
     buttons:
       create: New Namespace
       permissions: Permissions
-
   table:
     columns:
       enabled: Enabled
       name: Name
       slug: Short name
       changedAt: Last change
-
 sidebar:
   configure: Namespace pages
   hide: Hide sidebar on namespace public pages

@@ -1,4 +1,3 @@
----
 errors:
   alreadyExists: queue by that name already exists
   invalidConsumer: invalid consumer

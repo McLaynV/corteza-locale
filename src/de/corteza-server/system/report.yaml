@@ -1,4 +1,3 @@
----
 errors:
   invalidID: ungültige ID
   notAllowedToCreate: Erstellen von Berichten ist nicht zulässig

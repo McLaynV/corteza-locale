@@ -1,4 +1,3 @@
----
 errors:
   disabled: disabled workflow or trigger
   handleNotUnique: workflow handle not unique

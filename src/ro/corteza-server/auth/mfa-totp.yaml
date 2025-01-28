@@ -1,4 +1,3 @@
----
 template:
   title: Configure two-factor authentication with TOTP
   enforced: |
@@ -21,8 +20,6 @@ template:
 alerts:
   text-MFA-enabled: Two factor authentication with TOTP enabled
   text-MFA-disabled: Two factor authentication with TOTP disabled
-
 errors:
   invalid-code-format: "Invalid code format"
   invalid-code: "Invalid code"
-

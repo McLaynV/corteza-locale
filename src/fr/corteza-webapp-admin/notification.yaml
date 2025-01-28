@@ -226,4 +226,3 @@ permissions:
     error: Permissions clone failed
   role:
     error: Failed to add role
-

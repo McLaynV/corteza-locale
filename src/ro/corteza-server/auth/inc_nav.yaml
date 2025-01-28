@@ -1,4 +1,3 @@
----
 template:
   authorize-client: Finalizare autorizare pentru
   class:

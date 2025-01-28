@@ -1,4 +1,3 @@
----
 errors:
   cannotRenderPartial: cannot render partial templates
   invalidHandle: invalid handle

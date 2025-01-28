@@ -1,4 +1,3 @@
----
 errors:
   failedToDownloadAttachment: 'could not download attachment from {attachmentURL}: {err}'
   failedToLoadUser: could not load user for {recipient}

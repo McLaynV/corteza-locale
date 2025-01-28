@@ -1,4 +1,3 @@
----
 errors:
   alreadyExists: Route über diesen Endpunkt bereits vorhanden
   existsEndpoint: Route mit diesem Endpunkt bereits vorhanden

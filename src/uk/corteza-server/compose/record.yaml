@@ -1,4 +1,3 @@
----
 errors:
   fieldNotFound: no such field {field}
   importSessionAlreadActive: import session already active

@@ -1,4 +1,3 @@
----
 template:
   title: Disable two-factor authentication with TOTP
   instructions: Disable by entering existing code.

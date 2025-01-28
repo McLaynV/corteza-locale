@@ -1,4 +1,3 @@
----
 errors:
   credentialsLinkedToInvalidUser: credentials {credentials.kind} linked to disabled or deleted user {user}
   disabledMFAWithEmailOTP: multi factor authentication with email OTP is disabled

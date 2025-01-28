@@ -1,4 +1,3 @@
----
 errors:
   federationSyncStructureChanged: module structure changed
   invalidID: invalid ID

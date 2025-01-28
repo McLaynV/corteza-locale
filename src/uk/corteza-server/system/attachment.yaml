@@ -1,4 +1,3 @@
----
 errors:
   failedToExtractMimeType: could not extract mime type
   failedToProcessImage: could not process image

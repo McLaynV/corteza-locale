@@ -1,4 +1,3 @@
----
 errors:
   notAllowedToCreate: not allowed to create nodes
   notAllowedToManage: not allowed to manage this node

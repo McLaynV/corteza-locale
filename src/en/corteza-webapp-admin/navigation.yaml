@@ -1,5 +1,4 @@
 dashboard: Dashboard
-
 system:
   group: System
   items:
@@ -17,14 +16,12 @@ system:
     email: Email settings
     stats: Stats
     templates: Templates
-
 compose:
   group: Compose
   items:
     automation: Automation
     permissions: Permissions
     settings: Settings
-
 automation:
   group: Automation
   items:
@@ -32,15 +29,12 @@ automation:
     scripts: Corredor Scripts
     sessions: Sessions
     workflows: Workflows
-
 federation:
   group: Federation
   items:
     nodes: Nodes
     permissions: Permissions
-
 ui:
   group: User interface
   items:
     settings: Settings
-

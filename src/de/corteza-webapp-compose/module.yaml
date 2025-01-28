@@ -1,4 +1,3 @@
----
 allRecords:
   create:
     title: Create record for module "{{name}}"
